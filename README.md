@@ -354,7 +354,7 @@ light
 ## ▶️ How to Run This Project
 
 **Just view the dashboard**
-1. Download `powerbi/Chinook_Sales_Dashboard.pbix`.
+1. Download `Chinook_Sales_Dashboard.pbix`.
 2. Open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows). The data is already imported into the file.
 
 **Rebuild from the source data**
