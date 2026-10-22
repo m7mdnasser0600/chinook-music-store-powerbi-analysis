@@ -120,7 +120,6 @@ The source script (`data/chinook_database.sql`) is written in T-SQL. It creates 
 | `Employee` | Employees, including customer support representatives |
 | `Invoice` | Order-level data: invoice date, customer, billing address, and total |
 | `InvoiceLine` | Items purchased per invoice: track, unit price, and quantity |
-| `Playlist`, `PlaylistTrack` | Playlists (not required for this analysis, so removed from the model) |
 
 ---
 
