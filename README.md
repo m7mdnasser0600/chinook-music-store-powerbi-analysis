@@ -219,7 +219,6 @@ Because `invoice` sits between the fact table and the customer/date tables, the 
 
 ## 📐 DAX Measures
 
-All measures are also available in [`dax/measures.dax`](dax/measures.dax).
 
 ### Core measures
 ```dax
@@ -271,7 +270,13 @@ The dashboard follows a top-down approach: high-level KPIs first, then artist, c
 - Revenue by Country (map)
 - Slicers: Year, Artist, Genre, Country
 
-![Executive Overview](images/01_executive_overview.png)
+dark
+<img width="2062" height="1155" alt="image" src="https://github.com/user-attachments/assets/0f56b66c-5eb8-4ddd-b3eb-f607c6333959" />
+
+light
+<img width="2064" height="1153" alt="image" src="https://github.com/user-attachments/assets/37db373b-c151-4d51-bd0f-f265549e0b5c" />
+
+
 
 ### 2. Artist Analysis
 - KPI cards: Total Revenue, Album Count, Tracks Sold, Average Revenue per Track
@@ -281,7 +286,13 @@ The dashboard follows a top-down approach: high-level KPIs first, then artist, c
 - Table of top-selling tracks (track, artist, album, revenue)
 - Slicers: Artist, Genre
 
-![Artist Analysis](images/02_artist_analysis.png)
+dark
+<img width="2058" height="1153" alt="image" src="https://github.com/user-attachments/assets/a64b3eec-9c82-4cd3-a2e5-b1e09fe2155a" />
+
+light
+<img width="2066" height="1159" alt="image" src="https://github.com/user-attachments/assets/4cb68b70-815b-4d91-8001-0685202dc19a" />
+
+
 
 ### 3. Music Catalog
 - KPI cards: Track Count, Genre Count, Average Track Duration, Artist Count
@@ -291,7 +302,13 @@ The dashboard follows a top-down approach: high-level KPIs first, then artist, c
 - Genre comparison (dynamic parameter)
 - Slicers: Genre, Artist
 
-![Music Catalog](images/03_music_catalog.png)
+dark
+<img width="2066" height="1159" alt="image" src="https://github.com/user-attachments/assets/1d75f423-027c-4bda-a413-c9f08a5b7870" />
+
+light
+<img width="2068" height="1158" alt="image" src="https://github.com/user-attachments/assets/35a5c7f2-c39c-4372-a971-6669e4ffee51" />
+
+
 
 ### 4. Customer Analysis
 - KPI cards: Total Customers, Total Revenue, Average Customer Value, Average Order Value
@@ -300,7 +317,13 @@ The dashboard follows a top-down approach: high-level KPIs first, then artist, c
 - Number of customers by country (map)
 - Slicers: Genre, Country, Customer Name
 
-![Customer Analysis](images/04_customer_analysis.png)
+dark
+<img width="2067" height="1151" alt="image" src="https://github.com/user-attachments/assets/d92709b0-442d-488f-a1fe-0ee8922b0fd1" />
+
+light
+<img width="2063" height="1158" alt="image" src="https://github.com/user-attachments/assets/4b6327a0-407d-4bf2-9345-ca9d25432f76" />
+
+
 
 ### 5. Time Analysis
 - KPI cards: Total Revenue, YoY Revenue, YTD Revenue, Growth %
@@ -308,7 +331,13 @@ The dashboard follows a top-down approach: high-level KPIs first, then artist, c
 - Growth % vs. YoY revenue over time
 - Matrix: revenue by year, quarter, month, and day
 
-![Time Analysis](images/05_time_analysis.png)
+dark
+<img width="2061" height="1151" alt="image" src="https://github.com/user-attachments/assets/43444c96-5b49-40cf-b94e-14689562c8cd" />
+
+light
+<img width="2064" height="1156" alt="image" src="https://github.com/user-attachments/assets/56efca6b-6df8-4d00-9875-dc82e6390fbf" />
+
+
 
 ---
 
