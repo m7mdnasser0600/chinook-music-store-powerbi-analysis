@@ -129,8 +129,7 @@ The source script (`data/chinook_database.sql`) is written in T-SQL. It creates 
 Run `data/chinook_database.sql` on SQL Server. It creates the database, tables, relationships, and sample data that Power BI connects to.
 
 ### 2. Power Query – cleaning and shaping
-All transformations were done in Power Query. The M code of each query is saved in the [`powerquery/`](powerquery) folder.
-
+All transformations were done in Power Query.
 Steps applied:
 
 - Adjusted column data types to ensure correct calculations
@@ -190,7 +189,8 @@ Dim_Date = CALENDARAUTO()
 
 The model is built around **`invoiceline_Facttable`** as the central fact table, since it holds the lowest level of sales transactions (one row per purchased track).
 
-![Data Model](images/data_model.png)
+<img width="1032" height="960" alt="image" src="https://github.com/user-attachments/assets/e0f16cab-f365-4490-ad08-010b9b33ce17" />
+
 
 ### Tables
 
