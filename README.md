@@ -376,8 +376,8 @@ light
 ## 👤 Author
 
 **Mohamed AbdEl-Nasser**
-- LinkedIn: [your-profile-link]
-- GitHub: [your-github-link]
+- LinkedIn: [your-profile-link](https://www.linkedin.com/in/m7mdnasser00/)
+- GitHub: [your-github-link](https://github.com/m7mdnasser0600)
 
 ---
 
