@@ -358,7 +358,7 @@ light
 2. Open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows). The data is already imported into the file.
 
 **Rebuild from the source data**
-1. Open SQL Server (or SSMS / Azure Data Studio) and run `data/chinook_database.sql`.
+1. Open SQL Server (or SSMS / Azure Data Studio) and run `chinook_database.sql`.
 2. In Power BI Desktop, choose **Get Data → SQL Server** and connect to the `Chinook` database.
 3. Recreate the queries using the code in `powerquery/` (Home → Transform data → Advanced Editor).
 4. Add the DAX from `dax/measures.dax`.
