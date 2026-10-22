@@ -4,8 +4,8 @@ An end-to-end business intelligence project that turns the raw transactional dat
 
 **Pipeline:** SQL Server (data source) → Power Query (cleaning and shaping) → Data Model (fact + dimensions) → DAX (measures) → Power BI Dashboard (designed in Figma)
 
-<!-- Add your best dashboard screenshot here -->
-![Executive Overview](images/01_executive_overview.png)
+<img width="2063" height="1158" alt="image" src="https://github.com/user-attachments/assets/5f20991d-e0bf-4780-a7b0-1ab50b838fdb" />
+
 
 ---
 
